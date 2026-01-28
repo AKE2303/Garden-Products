@@ -54,7 +54,7 @@
 section {
     width: 100%;
     height: calc(100vh - 90px);
-    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./img/bcg.png); 
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./bcg.png); 
     background-size: cover;
     background-position: center;
     display: flex;
@@ -92,4 +92,5 @@ section {
 
 .btn:hover{
     background-color: #43a047;
+
 }
